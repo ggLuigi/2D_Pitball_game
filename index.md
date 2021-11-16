@@ -5,3 +5,11 @@
 2D Pitball game
 
 like a pinball game, but a little bit different
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
